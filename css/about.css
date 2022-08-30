@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+.text h1{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  align-content: center;
+  font-family: "Asap", sans-serif;
+}
+
+.text{
+    align-content: center;
+    justify-content: center;
+    
+
+}
+.text h1{
+    font-size: 3rem;
+    margin: 20px;
+}
