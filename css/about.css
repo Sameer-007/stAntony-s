@@ -5,15 +5,16 @@
   box-sizing: border-box;
   align-content: center;
   font-family: "Asap", sans-serif;
+  text-align: center;
 }
-
 .text{
-    align-content: center;
-    justify-content: center;
-    
-
+  display: contents;
+  align-items: center;
 }
-.text h1{
-    font-size: 3rem;
-    margin: 20px;
+.text ul{
+  font-family: cursive;
+}
+.text li{
+  font-weight: 1;
+  font-size: large;
 }

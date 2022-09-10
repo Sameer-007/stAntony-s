@@ -57,7 +57,7 @@ section .text-container .text-box h3{
 }
 section .text-container .text-box img{
   width: 100%;
-  height: 10vw;
+  height: 50%;
   align-content: center;
 }
 
@@ -82,7 +82,6 @@ section .text-container .text-box img{
   transform: translateY(0);
   opacity: 1;
 }
-
 
 li{
   font-size: large;
